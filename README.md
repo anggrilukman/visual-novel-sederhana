@@ -1,0 +1,1 @@
+ini adalah tugas UAS pemrograman perangkat bergerak, berupa sebuah aplikasi cerita bergambar dengan audio, aset audio narasi di generate menggunakan AI evenlabs.io dan gambar menggunakan Midjourney, sementara untuk program menggunakan bahasa Java sederhana.
